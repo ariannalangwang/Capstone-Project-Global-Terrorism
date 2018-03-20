@@ -4,12 +4,12 @@ In this folder, you will find a Jupyter Notebook (iPython Notebook) containing m
 
 This project includes the following steps:
 
-*Data Cleaning and data wrangling
+- Data Cleaning and data wrangling
 
-*Exploratory data analyses
+- Exploratory data analyses
 
-*Data visualization
+- Data visualization
 
-*statistical analyses
+- Statistical analyses
 
-*Making predictions via machine learning
+- Making predictions via machine learning
