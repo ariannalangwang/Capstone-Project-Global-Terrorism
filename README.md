@@ -1,6 +1,6 @@
 A project analyzing the global terrorism data
 
-In this folder, you will find a Jupyter Notebook (iPython Notebook) containing my programming code and a written report of my analyses.
+In this repository, you will find a Jupyter Notebook (iPython Notebook) containing my programming code and a written report of my analyses.
 
 This project includes the following steps:
 
