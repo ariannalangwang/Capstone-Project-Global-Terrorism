@@ -12,4 +12,4 @@ This project includes the following steps:
 
 - Statistical analyses
 
-- Making predictions via machine learning
+- Making predictions via machine learning models
